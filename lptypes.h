@@ -56,7 +56,7 @@
 
 
 /* maximum number of rules in a grammar */
-#define MAXRULES        200
+#define MAXRULES        1024
 
 
 
